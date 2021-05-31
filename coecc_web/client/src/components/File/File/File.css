@@ -1,0 +1,23 @@
+.cardGroup{
+    margin-bottom:50px;
+}
+.different{
+    width:33%; height:33px;
+}
+.name{
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+.paragraf{
+    margin-bottom:125px;
+    margin-left: 500px;
+}
+.card {
+    background-color: rgb(221, 221, 224);
+}
+
+.download{
+    position: absolute;
+    right: 84px;
+    margin-top: 10px;
+}
